@@ -1,2 +1,3 @@
 Hello this is GBJ's File
 I am testing my git
+Now adding to commit with name
